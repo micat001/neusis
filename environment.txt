@@ -1,0 +1,155 @@
+actionlib==1.13.2
+angles==1.9.13
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bondpy==1.8.6
+camera-calibration==1.16.0
+camera-calibration-parsers==1.12.0
+catkin==0.8.10
+catkin-pkg==0.5.2
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+controller-manager==0.19.5
+controller-manager-msgs==0.19.5
+cv-bridge==1.16.2
+cycler==0.11.0
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+diagnostic-analysis==1.11.0
+diagnostic-common-diagnostics==1.11.0
+diagnostic-updater==1.11.0
+docutils==0.19
+dynamic-reconfigure==1.7.2
+empy==3.3.4
+entrypoints @ file:///tmp/build/80754af9/entrypoints_1649908585034/work
+fonttools==4.38.0
+gazebo_plugins==2.9.2
+gazebo_ros==2.9.2
+gencpp==0.6.5
+geneus==3.0.0
+genlisp==0.4.18
+genmsg==0.5.16
+gennodejs==2.0.2
+genpy==0.6.15
+gnupg==2.3.1
+image-geometry==1.16.0
+interactive-markers==1.12.0
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1620912939357/work/dist/ipykernel-5.5.5-py3-none-any.whl
+ipympl==0.9.3
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1651240553635/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==8.0.6
+jedi @ file:///tmp/build/80754af9/jedi_1644299024593/work
+joint-state-publisher==1.15.1
+joint-state-publisher-gui==1.15.1
+jupyter-client==5.3.4
+jupyter_core==4.12.0
+jupyterlab-widgets==3.0.7
+kiwisolver==1.4.4
+laser_geometry==1.6.7
+matplotlib==3.5.3
+matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+message-filters==1.15.14
+moveit-commander==1.1.11
+moveit-core==1.1.11
+moveit-ros-planning-interface==1.1.11
+moveit-ros-visualization==1.1.11
+numpy==1.19.2
+opencv-python==4.5.2.52
+packaging==23.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.4.0
+prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
+psutil==5.9.4
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycryptodomex==3.17
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyhocon==0.3.57
+PyMCubes==0.1.2
+pyparsing==2.4.7
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-qt-binding==0.4.4
+PyYAML==6.0
+pyzmq @ file:///opt/conda/conda-bld/pyzmq_1657724186960/work
+qt-dotgraph==0.4.2
+qt-gui==0.4.2
+qt-gui-cpp==0.4.2
+qt-gui-py-common==0.4.2
+resource_retriever==1.12.7
+ros_numpy==0.0.5
+rosbag==1.15.14
+rosboost-cfg==1.15.8
+rosclean==1.15.8
+roscreate==1.15.8
+rosgraph==1.15.14
+roslaunch==1.15.14
+roslib==1.15.8
+roslint==0.12.0
+roslz4==1.15.14
+rosmake==1.15.8
+rosmaster==1.15.14
+rosmsg==1.15.14
+rosnode==1.15.14
+rosparam==1.15.14
+rospkg==1.5.0
+rospy==1.15.14
+rosservice==1.15.14
+rostest==1.15.14
+rostopic==1.15.14
+rosunit==1.15.8
+roswtf==1.15.14
+rqt-moveit==0.5.10
+rqt-reconfigure==0.5.4
+rqt-robot-dashboard==0.5.8
+rqt-robot-monitor==0.5.14
+rqt-rviz==0.7.0
+rqt_action==0.4.9
+rqt_bag==0.5.1
+rqt_bag_plugins==0.5.1
+rqt_console==0.4.11
+rqt_dep==0.4.12
+rqt_graph==0.4.14
+rqt_gui==0.5.3
+rqt_gui_py==0.5.3
+rqt_image_view==0.4.16
+rqt_launch==0.4.9
+rqt_logger_level==0.4.11
+rqt_msg==0.4.10
+rqt_nav_view==0.5.7
+rqt_plot==0.4.13
+rqt_pose_view==0.5.11
+rqt_publisher==0.4.10
+rqt_py_common==0.5.3
+rqt_py_console==0.4.10
+rqt_robot_steering==0.5.12
+rqt_runtime_monitor==0.5.9
+rqt_service_caller==0.4.10
+rqt_shell==0.4.11
+rqt_srv==0.4.9
+rqt_tf_tree==0.6.2
+rqt_top==0.4.10
+rqt_topic==0.4.13
+rqt_web==0.4.10
+rviz==1.14.14
+scipy==1.7.0
+sensor-msgs==1.13.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smach==2.5.0
+smach-ros==2.5.0
+smclib==1.8.6
+srdfdom==0.6.3
+tf==1.13.2
+tf-conversions==1.13.2
+tf2-geometry-msgs==0.7.5
+tf2-kdl==0.7.5
+tf2-py==0.7.5
+tf2-ros==0.7.5
+topic-tools==1.15.14
+tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
+tqdm==4.65.0
+traitlets @ file:///croot/traitlets_1671143879854/work
+trimesh==3.9.8
+typing_extensions==4.5.0
+urdfdom-py==0.4.6
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+widgetsnbextension==4.0.7
+xacro==1.14.13
